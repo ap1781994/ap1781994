@@ -1,25 +1,7 @@
-### Hi there, I'm Amol! 👋   <img src="./images/2.png" width = "300" height = "300" align = "center"> 
 
-
-<!---### Hi there, I'm Amol! 👋   <img src="./images/1.gif" width = "300" height = "300" align = "center"> 
---->
-### I'm a software developer and i development mobile applications.   
-
-- 👋 Hi, I’m AmolPatil @ap1781994
-- 👀 I’m interested in mobile Application Languages 📱
-- 😄 Pronouns: Software Developer
-- 💪🏼 Future Goals: Exploring new technologies and developing software solutions. - Never stop creating new ideas.
-
-# Hi there, I'm Amol! 👋  
-<img src="./images/2.png" width="300" height="300" alt="Amol's Profile Image" align="center">  
-
-<!---  
-# Hi there, I'm Amol! 👋  
-<img src="./images/1.gif" width="300" height="300" alt="Animated GIF" align="center">  
---->  
 
 ## I'm a Software Developer specializing in Mobile App Development 🚀  
-<img src="./images/amol.gif" width="300" height="300" alt="Amol's Coding GIF" align="right">  
+<img src="./images/2.png" width="300" height="300" alt="Amol's Profile Image" align="center">  
 
 ### About Me  
 - 👋 Hi, I’m **Amol Patil** [(@ap1781994)](https://github.com/@ap1781994)  
