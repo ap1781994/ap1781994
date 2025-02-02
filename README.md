@@ -37,4 +37,4 @@
 
 ---
 
-⭐ **Check out my repositories & feel free to contribute!**  
+
